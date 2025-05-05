@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcel Uwamungu</h1>
-<h4>i'm currently learning <bold>NLTK and Python</bold></h4>
+<h4>i'm currently learning <bold>NLP and Python</bold></h4>
 
 -  Ask me about _**CSS**_ and _**Java**_ .
 -  How to reach me [Gmail](uwamungumarcel@gmail.com)
